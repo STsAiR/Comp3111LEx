@@ -1,4 +1,4 @@
-This is a Jave project
+This is a Java project
 
 Here is a screenshot of my Project:
 
